@@ -9,14 +9,25 @@
     width: 100%;
 }
 
+.button li a {
+ font-family: Arial;
+ font-size: 11px;
+ text-decoration: none;
+ float: left;
+ padding: 10px;
+ background-color: #2175bc;
+ color: #fff;
+ }
+
 .header__img {
-    margin-left: 50px;
-    width: 200px;
+    margin-top: 60px;
+    margin-left: 5px;
+    width: 500px;
     background: black;
 }
 
 .header__menu {
-    margin-right: 30px;
+    margin-right: 90px;
 }
 
 .header__menu ul {

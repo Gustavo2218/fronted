@@ -1,6 +1,7 @@
 import React from 'react';
 import '../assets/style/app.scss';
 import Header from '../components/Header';
+import Menu from '../components/menu';
 import Search from '../components/Search';
 import Footer from '../components/Footer';
 import Carrusel from '../components/Carrusel';
@@ -11,7 +12,7 @@ const App = () =>(
             <Search />
                 <Carrusel />
                     <Footer />
-              
+
     </div>
 );
 export default App;

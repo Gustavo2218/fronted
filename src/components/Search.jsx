@@ -8,7 +8,7 @@ const Search = () =>{
         <center>
         <div className="">
               <section class="main">
-    <h2 class="main__title">¿Qué desea buscar?</h2>
+    <h2 class="main__title">¿Qué restaurante desea buscar?</h2>
     <input type="text" class="input" placeholder="Buscar..." />
   </section>
         </div>
